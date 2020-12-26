@@ -17,7 +17,7 @@ navbar-links:
   Blog: "blog"
   Project: "project"
   GitHub: "https://github.com/chanwoo-park-official"
-  Google Scholar: "https://scholar.google.com/citations?hl=en&user=FDG3_JMAAAAJ&view_op=list_works&authuser=2&gmla=AJsN-F7JipktDa1kv947fNxv4lxCFeKNc9wEWwEnD7NS6SL6xv1MzaQ52BNRMBsHFrY6plkJU4JxxSIL6J2GUv6uHF052cI2HEg7iIvnPlFwrk__x4ZVVx9qPyDazMwHh2aQBU4WgEPmgdEOjQmoYB9M9QbSFMKWhAn"
+  Google Scholar: "https://scholar.google.com/citations?hl=en&authuser=2&user=FDG3_JMAAAAJ"
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
@@ -36,10 +36,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
-  linkedin: seokho-son
+  email: "chanwoo.park@snu.ac.kr"
+  facebook: chanu4689@daum.net
+  github: chanwoo-park-official
+  linkedin: chanwoo-park
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
