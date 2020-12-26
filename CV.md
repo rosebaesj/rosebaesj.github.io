@@ -92,7 +92,7 @@ title: CV
   * Peer tutoring for junior of SNU, Summer 2020, Fall 2020
 
 * [Private Note](https://privatenote.co.kr/) 
-  * Internet-based teaching about MatheMatics Olympiad
+  * Internet-based teaching about Mathematics Olympiad
   
 <br/>
 # Extracurricular
