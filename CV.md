@@ -6,111 +6,104 @@ title: CV
 <br/>
 
 
+# Education
+### Seoul National University, 2016 to Present
+#### B.S. in Statistics, Mathematics, and Computer Science(Triple Major)
+
+ * total GPA : 4.18 / major GPA : 4.25
+
+### Seoul Science High School, 2013 to 2015
+
+ * Thesis : “Fourier Analysis in Bi-complex Field”; Best Thesis Award in Major in Mathematic
+ 
+ * GPA : 4.19
+
+<br/>
+
+# Research Interest 
+ * Theoritical Statistics, Machine Learning Theory
+ * Optimization
+ * Non-parametric Inference
+ * Biostatistics
+
+<br/>
+
+
 # Research Experience
 
-### Electronics and Telecommunications Research Institute
-#### Senior Researcher, 2014 to Present
+### Ryu's Optimization Group
+#### Research Intern, 2019 to Present
 
-* Project (ongoing): _**Multi-cloud service common framework**_
-  * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
-* Project: _**Heterogeneous multi-cloud service brokerage platform**_
-  * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
-* Project: _**Big data-based IT system operation and analysis framework**_
-  * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
+* Project (ongoing): _**Optimized Gradient Methods**_
+  * Role: Research about several properties of OGM
 
-### TestMidas, Inc.
-#### Senior Researcher,	2013 to 2014
+### Bioinformatics and Biostatistics Lab.
+#### Research Intern,	2019 to 2020
 
-* Project: _**An open source-based testing tool for Cloud OS validation**_
-  * Role: design and development of openstack validation tool, openstack-based cloud API testing.
+* Project: _**Convolutional-HisCoM**_
+  * Role: research idea, Coding, Writing draft.
+  * Presentation on IEEE BIBM(2020)
 
-### Gwangju Institute of Science and Technology (GIST)
-#### Ph.D. Student, 2009 to 2012
-
-* Project: _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
-  * Role: researches for bargaining-based cloud SLA establishment and cloud resource management
-
-### Gwangju Institute of Science and Technology (GIST)
-#### Master Student, 2006 to 2008
-
-* Project: _**Development of e-organ system based on cyber computing**_
-  * Role: development of a high resolution interactive brain visualization system (3D brain, MRI, and EIT images)
-* Project: _**Research on realistic digital broadcasting technology**_
-  * Role: development of a realistic broadcasting system
-* Project: _**Development of Immersive 3D networked virtual environment technology**_
-  * Role: development of a delay compensation mechanism to mitigate network delay problems in 3D network virtual environment with haptic devices
+* Project: _**Pure additive contribution of genetic variants to a risk prediction model using propensity score matching: application to type 2 diabetes**_
+  * Role: research idea, Coding, Writing draft.
 
 <br/>
 
-# Professional Activity
+# Major Courses
+ * Selected Mathematics Course
+  * Stochastic Differential Equation 1, Finanical Mathematics 1, Algebra 1(Grad), Differential Geometry 2, Real Analysis(Grad), Complex Analysis(Grad), Functional Analysis 1,2(Grad), Mathematical and Numerical Optimization, Algebraic Topology 1(Grad)(Audit)
 
-### Open Source Project Contribution
-
-* Kubernetes project contents owner
-  * Official member of Kubernetes organization (Github)
-  * Contributor of [Kubernetes/website](https://github.com/kubernetes/website) (approver/reviewer/contributor)
-  * Contributor of [Kubernetes/dashboard](https://github.com/kubernetes/dashboard) (approver/reviewer/contributor)
-* Cloud-Barista project owner
-  * Technical leader for [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug)
-  * Owner of [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project (approver/reviewer/contributor)
-  * Owner of [Cloud-Barista/CB-Operator](https://github.com/cloud-barista/cb-operator) (approver/reviewer/contributor)
-* Github Profile: [https://github.com/seokho-son](https://github.com/seokho-son)
-
-### Reviewer for Reputed Journals
-
-* ACM Computing Surveys (ACM)
-* IEEE Transactions on Cloud Computing (IEEE)
-* IEEE Transactions on Service Computing (IEEE)
-* Journal of Supercomputing (Springer)
-* Information Systems Frontier (Springer)
-* International Journal of Cloud Computing (Inderscience)
-* ETRI Journal (Wiley)
-
-### International Standardization
-
-* ITU-T SG13 : main contributor of Y.csb-reqts (recommendation for cloud service brokerage requirements)
-  * Activities to obtain editorship of Y.csb-reqts document (Geneva, June 2016)
-  * 19 proposals (contributions) have been accepted for Y.csb-reqts
-* ITU-T SG13 : main contributor of Y.mc-reqts (recommendation for multi-cloud requirements)
-  * Activities to obtain editorship of Y.mc-reqts document (Geneva, June 2019)
-  * 3 proposals (contributions) have been accepted for Y.mc-reqts
-* Committee of [Korea ITU Committee](https://www.koreaitu.or.kr/)
-
-### Conference Committee
-
-* Paper Session Chair: The 2012 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA'12), Cloud Computing Session
-* Conference Committee: Mexico Satellite Session of IEEE BigData (Mexico City, May 8, 2014)
-
-### Invited Talk
-
-* Invited Talk regarding **_Introduction to Container-based Computing Platform (feat. Kubernetes)_**, 2020
-* Invited Talk regarding [**_Getting Involved in Kubernetes SIG Docs and Korean Localization_**](https://k8sforumseoul19eng.sched.com/event/WIRH/getting-involved-in-kubernetes-sig-docs-and-korean-localization-seokho-son-electronics-and-telecommunications-research-institute-etri-ian-choi-microsoft), Kubernetes Forum Seoul (LinuxFoundataion), 2019
-* Invited Talk regarding **_Cloud Computing with IoT_**, Handong-Univ., 2017
-* Invited Talk regarding **_Cloud Service Brokerage Systems_**, in the Education and Training for CSP experts sponsored by Consortium of Cloud Computing Research , 2016
-* Invited Talk regarding **_HPC over Cloud_**, in Korea Supercomputing Conference 2015, 2015
-* Invited Talk regarding **_HPC Cloud_**, in SCENT HPC Summer School at GIST, 2015
-* Invited Technical Committee for **_Cloud computing and Big data_**, National Computing & Information Agency (Government data center of Korea), 2012
-  * invited expert and lecturer of the SMART Cloud group in NCIA which is a national institute to operate information systems of Korea government. Made several lectures during a year regarding Cloud computing and big data to 30 public officials including senior civil servants.
-* Invited Expert for **_Cloud computing and parallel computing systems_**, Mokwon University in Korea, 2012-2013
-  * assisted a research team in Mokwon University to help the team construct a distributed computing system to process massive data from a large antenna.
-
+ * Selected Statistics & Computer Course
+  * Theory of Statistics 1,2(Grad), Theory of Probability 1(Grad), 2(Audit), Advanced-Biostatistics(Grad), Applied Statistics Seminar(HGLM)(Grad), Survival Analysis, Regression Analysis, Stochastic Process, Deep Learning, Machine Learning(Grad)
 
 <br/>
+
 
 # Honor and Award
 
-* Award from Startup Idea Contest 2020 of ETRI
-* Best Paper Presentation Award from Korea Information Science Society	2014
-  * Best paper presentation in Korea Computer Congress 2014
-* Best Paper Presentation Award from Korea Information Science Society	2012
-  * Best paper presentation in Korea Computer Congress 2012
-* Amazon Web Services (AWS) in Education Research Grant	2012
-  * A research proposal has been accepted from Amazon Web Services, Inc
-* National Scholarship for PhD from Korea government	2009–2013
-  * Full financial support from Korea government as a PhD student in GIST  
-* National Scholarship for MS from Korea government	2006–2008
-  * Full financial support from Korea government as a MS student in GIST  
-* Brain Korea 21 (BK21) Scholarship (3 times)	2003–2005
-  * Scholarship from BK21 organized by Ministry of Education and Human Resources Development of South Korea.
-* Pukyong National University Scholarship for Top Student (2 times)	2005–2006
-  * A financial support that fully covers a BS semester, given to a student who achieved the highest GPA in a semester.
+* University Mathematics Competition, Field 1 **Gold medal**, from Korean Mathematics Society 2020
+  * For Mathematics Major 
+* Simon Marais Mathematics Competition, Pair **1st** Place, Merit Prize 2020
+  * With Taehyoung Kim. Undergraduate Mathematics Competition Asia-Pacific. Inspired by the William Lowell Putnam Mathematical Competition
+* KOGO Excellent Graduate Paper Award, from Korea Genome Organization, 2020
+  * Best Graduate-level paper
+* Korea Actuary, from Financial Supervisory Service 2018
+* Deans list, from SNU
+  * Fall 2016, Spring 2019, Fall 2019, Spring 2020
+
+* President Science Scholarship in Mathematics, from Korea Student Aid Foundation
+  * Full financial support + 1k/year from Korea government, 2016 to Current
+* College Scholarship Student at KFAS
+  * 0.5k/year from KFAS, 2020 to Current
+
+<br/>
+
+# Teaching Experience
+* Elemantary Mathematics 1
+  * Peer tutoring for freshmen of SNU, Spring 2019, Spring 2020
+
+* Linear Algebra 1
+  * Peer tutoring for sophomore of SNU, Winter 2020, Winter 2021
+
+* Mathematical Statistics 1
+  * Peer tutoring for junior of SNU, Spring 2020
+
+* Mathematical Statistics 2
+  * Peer tutoring for junior of SNU, Summer 2020, Fall 2020
+
+* [Private Note](https://privatenote.co.kr/) 
+  * Internet-based teaching about MatheMatics Olympiad
+  
+<br/>
+# Extracurricular
+* JAME Band (2019 to 2020)
+  * Electronic Guitar
+  
+* Agent police in Boeun 112 counterterrorism unit(21 month) (2017 to 2018)
+  * Counter Terrorism K3 machine gunner
+  
+* Limsup Band (2016)
+  * Electronic Guitar
+
+* Class of 2020(matriculated at 2016} representative in Statistics Major (2016)
+  * Student council, 2016 representative
