@@ -9,21 +9,21 @@ cover-img: /assets/img/main1.jpg
 
 ## About me
 
-I'm **Chanwoo Park** , a student at Seoul National University. I major in Mathematics, Statistics, and Computer Science(Triple major).   He designs system architectures and devises sophisticated algorithms to accomplish national R&D projects in cloud computing domain.
+I'm **Chanwoo Park** , a student at Seoul National University. I major in Mathematics, Statistics, and Computer Science(Triple major). 
 
-He has a broad technical background in cloud computing, multi-agent systems, resource management, and decision-making algorithms. He has published more than 20 international [research papers](https://scholar.google.com/citations?user=seokhoson) including highly cited top journals. His research has been presented in several conferences and organizations.
+More specifically, my research topic is mainly in the area of optimization and nonparametric inference, and applying to biological data. I have accumulated my own research experience in Generalized Structural Component Analysis (GSCA), Polygenic Score Matching (PSM), and Optimized Gradient Methods (OGM). I'm interested in theoritical statitstics, biostatistics, and machine learning theory(especially optimization). I have a solid backgrounds on mathematics and statistics. 
 
-He is carrying out various activities including international standardizations ([ITU-T](https://www.itu.int/en/ITU-T/about/Pages/default.aspx) standards), paper reviews for research journals, and contributions to open source projects.
+I was a researcher in Bioinformatics and Biostatistics Lab [BIBS](http://bibs.snu.ac.kr/) at SNU, directed by Prof. Taesung Park. Under the guidance of Taesung Park, I wrote one paper, "Pure additive contribution of genetic variants to a risk prediction model using propensity score matching: application to type 2 diabetes"
 
-He is a founding member of the open souce project [Cloud-Barista](https://github.com/cloud-barista) and the leader and maintainer of [CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project.
-Also, he is a member of [Kubernetes](https://kubernetes.io/) and approver/reviewer of localization contents in Kubernetes [Dashboard](https://github.com/kubernetes/dashboard) and [Website](https://github.com/kubernetes/website).
+Currently, I'm a researcher in Ryu's Optimization Group [Ryu](http://www.math.snu.ac.kr/~ernestryu/) at SNU, directed by Ernest K. Ryu. I'm really excited when I study optimization theory. 
 
-He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
+I'm also Korea Actuary since 2018. 
+
+I am familiar with several programming languages, including Python, R, C++, and Java, and I usually utilize them for research. As a hobby, I used to play the electronic guitar, and running through Gwanak Mountain. 
+
 
 ## Contact
 
 ```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Email: chanwoo.park[at]snu.ac.kr
 ```
