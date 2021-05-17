@@ -51,10 +51,10 @@ title: CV
 
 # Major Courses
  * Selected Mathematics Course
-  * Stochastic Differential Equation 1, Finanical Mathematics 1, Algebra 1(Grad), Differential Geometry 2, Real Analysis(Grad), Complex Analysis(Grad), Functional Analysis 1,2(Grad), Mathematical and Numerical Optimization, Algebraic Topology 1(Grad)(Audit)
+  * Stochastic Differential Equation 1, Finanical Mathematics 1, Algebra 1(Grad), Introduction to Differential Geometry 2, Real Analysis(Grad), Complex Analysis(Grad), Functional Analysis 1,2(Grad), Mathematical and Numerical Optimization, Algebraic Topology 2(Grad), Lie group theory(Grad), Harmonic analysis(Grad), Mathematical algorithm 1(Grad), Differnetial Geomtery 1(Grad)
 
  * Selected Statistics & Computer Course
-  * Theory of Statistics 1,2(Grad), Theory of Probability 1(Grad), 2(Audit), Advanced-Biostatistics(Grad), Applied Statistics Seminar(HGLM)(Grad), Survival Analysis, Regression Analysis, Stochastic Process, Deep Learning, Machine Learning(Grad)
+  * Theory of Statistics 1,2(Grad), Theory of Probability 1(Grad), 2(Audit), Advanced-Biostatistics(Grad), Applied Statistics Seminar(HGLM)(Grad), Survival Analysis, Regression Analysis, Stochastic Process, Deep Learning, Machine Learning(Grad), Nonparametric function estimation(Grad)
 
 <br/>
 
@@ -80,13 +80,13 @@ title: CV
 
 # Teaching Experience
 * Elemantary Mathematics 1
-  * Peer tutoring for freshmen of SNU, Spring 2019, Spring 2020
+  * Peer tutoring for freshmen of SNU, Spring 2019, Spring 2020, Spring 2021
 
 * Linear Algebra 1
   * Peer tutoring for sophomore of SNU, Winter 2020, Winter 2021
 
 * Mathematical Statistics 1
-  * Peer tutoring for junior of SNU, Spring 2020
+  * Peer tutoring for junior of SNU, Spring 2020, Spring 2021
 
 * Mathematical Statistics 2
   * Peer tutoring for junior of SNU, Summer 2020, Fall 2020
