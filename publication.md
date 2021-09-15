@@ -8,6 +8,11 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?h
 
 
 # Research Papers
+### Recent Papers
+- **Chanwoo Park**, Ernest K. Ryu, _"Optimal First-Order Algorithms as a Function of Inequalities"_, preprint, 2021
+- Jongmin Lee, **Chanwoo Park**, Ernest K. Ryu, _"A Geometric Structure of Acceleration and Its Role in Making Gradients Small Fast"_, preprint, 2021 [pdf](https://arxiv.org/abs/2106.10439)
+- **Chanwoo Park**, Jisun Park, Ernest K. Ryu, _"Factor-$\sqrt{2}$ Acceleration of Accelerated Gradient Methods"_, preprint, 2021 [pdf](https://arxiv.org/abs/2102.07366)
+
 
 ### Journal Papers
 
@@ -15,7 +20,7 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?h
 
 #### Domestic
 
-- **Chanwoo Park**, Nan Jiang, and Taesung Park, _“Pure additive contribution of genetic variants to a risk prediction model using propensity score matching: application to type 2 diabetes,"_ Genomics & Informatics, Vol. 17, No. 4, Dec. 2019.
+- **Chanwoo Park**, Nan Jiang, and Taesung Park, _“Pure additive contribution of genetic variants to a risk prediction model using propensity score matching: application to type 2 diabetes",_ Genomics & Informatics, Vol. 17, No. 4, Dec. 2019. 
 
 ### Conference Papers
 
