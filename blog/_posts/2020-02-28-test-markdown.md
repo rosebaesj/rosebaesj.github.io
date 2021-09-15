@@ -22,6 +22,7 @@ comments: true
 
 $$p(Y|X) = p(y_t | y_{0:t-1}, X)$$
 
+
 훈련 과정 중에는 병렬적으로 가능하지만, 실제로 추론할 때는 그렇지 않다. 하지만 인간의 언어 생성 방식과 비슷하다고 볼 수 있다. 
 
 **NAT**는 길이 $T$를 정해주고 다음과 같은 Cross Entropy를 이용한다. Separated conditional distribution으로 나눠 질 수 있다고 가정한다. (즉, $y_i$끼리의 분리를 의미한다) 
