@@ -10,11 +10,21 @@ comments: true
 
 서울대학교 시스템프로그래밍 특강에서 세미나로 듣고 있는 논문들을 리뷰하려고 한다. 
 
-Non-Autoregressive Machine Translation (NAT) 은 기존의 NLP의 Auto-regressive한 모델을 탈피한다. 
 
-Autoregressive Neural Machine Translation은 conditional probability로 $X = (x_1, \cdots, x_T')$ 가 주어졌을 때 $Y = (y_1, \cdots, y_T)$의 확률을 추정한다. 
+
+## Non-Autoregressive Machine Translation
+
+**Non-Autoregressive Machine Translation (NAT)** 은 기존의 NLP의 Auto-regressive한 모델을 탈피한다. 
+
+**Autoregressive Neural Machine Translation**은 conditional probability로 $X = (x_1, \cdots, x_T')$ 가 주어졌을 때 $Y = (y_1, \cdots, y_T)$의 확률을 추정한다. 
 
 $$p(Y|X) = p(y_t | y_{0:t-1}, X)$$
+
+훈련 과정 중에는 병렬적으로 가능하지만, 실제로 추론할 때는 그렇지 않다. 하지만 인간의 언어 생성 방식과 비슷하다고 볼 수 있다. 
+
+**NAT**는 길이 $T$를 정해주고 다음과 같은 Cross Entropy를 이용한다. Separated conditional distribution으로 나눠 질 수 있다고 가정한다. (즉, $y_i$끼리의 분리를 의미한다) 
+$$\mathcal{L}_{XE} = - \log P(Y|X) = -\sum_{y_n} \log P(y_n|X)$$
+
 
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
