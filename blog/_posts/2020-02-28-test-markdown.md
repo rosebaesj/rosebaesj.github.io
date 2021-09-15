@@ -5,7 +5,9 @@ subtitle: Each post also has a subtitle
 gh-repo: seokho-son/seokho-son.github.io
 gh-badge: [star, fork, follow]
 tags: [test, markdown]
+mathjax: true
 comments: true
+
 ---
 
 서울대학교 시스템프로그래밍 특강에서 세미나로 듣고 있는 논문들을 리뷰하려고 한다. 
