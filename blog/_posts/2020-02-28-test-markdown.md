@@ -1,12 +1,21 @@
 ---
 layout: post
-title: Markdown Sample
+title: Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation 리뷰
 subtitle: Each post also has a subtitle
 gh-repo: seokho-son/seokho-son.github.io
 gh-badge: [star, fork, follow]
 tags: [test, markdown]
 comments: true
 ---
+
+서울대학교 시스템프로그래밍 특강에서 세미나로 듣고 있는 논문들을 리뷰하려고 한다. 
+
+Non-Autoregressive Machine Translation (NAT) 은 기존의 NLP의 Auto-regressive한 모델을 탈피한다. 
+
+Autoregressive Neural Machine Translation은 conditional probability로 $X = (x_1, \cdots, x_T')$ 가 주어졌을 때 $Y = (y_1, \cdots, y_T)$의 확률을 추정한다. 
+
+$$p(Y|X) = p(y_t | y_{0:t-1}, X)$$
+
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
