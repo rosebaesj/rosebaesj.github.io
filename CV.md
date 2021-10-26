@@ -41,7 +41,7 @@ title: CV
   * Proving FISTA-G's convergence rate via energy function, which is the first acceleration that reducing gradient norm for composite minimization setup
   * Conducting several experiments for geometric acceleration
 
-* _**Geometric Acceleration**_
+* _**Optimal First-order Algorithms as a Function of Inequalities**_
   * Constructing A-star map, which maps between inequalities and acceleration method
   * Proving several results including Nesterov's FGM's optimality in some sense using performance estimation problem methodology
 
@@ -88,7 +88,7 @@ title: CV
   * With Taehyoung Kim. Undergraduate Mathematics Competition Asia-Pacific. Inspired by the William Lowell Putnam Mathematical Competition
 * University Mathematics Competition, Field 1 **Gold medal**, from Korean Mathematics Society, 2020
   * For Mathematics Major 
-* Korea Actuary, from Financial Supervisory Service 2018
+* Korea Actuary, from Financial Supervisory Service, 2018
 * Deans list, from SNU
   * Fall 2016, Spring 2019, Fall 2019, Spring 2020, Fall 2020, Spring 2021
 
@@ -96,6 +96,25 @@ title: CV
   * Full financial support + 1k/year from Korea government, 2016 to Current
 * College Scholarship Student at KFAS
   * 0.5k/year from KFAS, 2020 to Current
+
+<br/>
+# Talks
+* Seminar: Geometry and Machine learning, 2021
+  * Head Organizer in the part of Machine Learning [url](https://sites.google.com/view/snu-21-fall-geometry-seminar/home)
+
+* Factor-$\sqrt 2$ Acceleration of Accelerated Gradient Methods
+  * Bernoulli-IMS World Congress - Poster section Young Researchers Meeting, 2021
+  * Korea Artificial Intelligence Association (KAIA), Poster Presentation, 2021
+  * SIAM Undergraduate Meeting, Virtual, 2021
+  * Korean SIAM Annual Meeting, Korea, 2021
+  * Korean Mathematical Society (KMS) Spring Meeting, Korea, 2021
+
+* Geometric Structure of Acceleration and Its Role in Making Gradients Small Fast
+  * Korea Artificial Intelligence Association (KAIA) 2021 Conference, Poster Presentation
+
+* DeepHisCoM: Deep Learning based pathway analysis
+  * International Conference on Bioinformatics \& Biomedicine (BIBM), Korea, 2020.
+  * Bioinformatics Young Scientist Meeting, Korea, 2020. 
 
 <br/>
 
