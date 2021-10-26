@@ -26,6 +26,8 @@ I was a researcher in Nonparametric Inference Lab ([NIL](https://sites.google.co
 
 Currently, I'm a researcher in Ryu's Optimization Group ([Ryu](http://www.math.snu.ac.kr/~ernestryu/)) at SNU, directed by Ernest K. Ryu. I'm excited when I study optimization theory. The commonality of acceleration methods and the worst-case analysis were the main topic.
 
+From Korea Foundation for Advanced Studies (KFAS), full tuition and stipend for doctorates in the US are given. 
+
 I have certification in Korea actuary since 2018. 
 
 I am familiar with several programming languages, including Python, R, C++, Matlab, and Java, and I usually utilize them for research. As a hobby, I play the electric guitar and run through Gwanak Mountain. 
