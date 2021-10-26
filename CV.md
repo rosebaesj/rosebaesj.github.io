@@ -33,35 +33,35 @@ title: CV
 
 ### Ryu Optimization Group
 
-* _**Optimized Gradient Method (OGM)**_
+* **Optimized Gradient Method (OGM)**
   * Proving OGM's convergence via Lyapunov function
   * Deriving strongly convex version OGM and linear coupling derivation of OGM
 
-* _**Geometric Acceleration**_
-  * Proving FISTA-G's convergence rate via energy function, which is the first acceleration that reducing gradient norm for composite minimization setup
+* **Geometric Acceleration**
+  * Proving FISTA-G's convergence rate via energy function, which is the first acceleration that reducing gradient norm for composite minimization setup
   * Conducting several experiments for geometric acceleration
 
-* _**Optimal First-order Algorithms as a Function of Inequalities**_
+* **Optimal First-order Algorithms as a Function of Inequalities**
   * Constructing A-star map, which maps between inequalities and acceleration method
   * Proving several results including Nesterov's FGM's optimality in some sense using performance estimation problem methodology
 
 ### Nonparameteric Inference Lab
-* _**ReLU's Convergence Rate**_
+* **ReLU's Convergence Rate**
   * Extending Schmidt-Hieber's research about ReLU's convergence rate to the several activation functions
   * Comparing with several methods
 
-* _**Probability in Compact Lie Groups**_
+* **Probability in Compact Lie Groups**
   * Studied relationship between representation theory and probability
   * Measurement error in Lie group
 
 
 ### Bioinformatics and Biostatistics Lab
 
-* _**Type 2 Diabetes and Propensity Score Matching**_
+* **Type 2 Diabetes and Propensity Score Matching**
   * Risk prediction using propensity score matching
   * Modeling Type 2 diabetes prediction model with demographic variables and SNP
 
-* _**Deep-HisCoM**_
+* **Deep-HisCoM**
   * Proposing a novel structure for finding significant pathway
   * Conducting simulation study and real data analysis
 
