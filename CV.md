@@ -98,6 +98,7 @@ title: CV
   * 0.5k/year from KFAS, 2020 to Current
 
 <br/>
+
 # Talks
 * Seminar: Geometry and Machine learning, 2021
   * Head Organizer in the part of Machine Learning [url](https://sites.google.com/view/snu-21-fall-geometry-seminar/home)
