@@ -159,5 +159,5 @@ title: CV
 * Limsup Band (2016)
   * Electric Guitar
 
-* Class of 2020(matriculated at 2016) representative in Statistics Major (2016)
+* Class of 2020 (matriculated at 2016) representative in Statistics Major (2016)
   * Student council, 2016 representative
