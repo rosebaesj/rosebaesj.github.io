@@ -12,10 +12,10 @@ cover-img: /assets/img/main1.jpg
 I'm **Chanwoo Park**, a student at Seoul National University. I major in Mathematics and Statistics, minor in Computer Science. 
 
 My research interests are:
-* Deep learning theory.
-* High dimensional statistics.
-* Optimization.
-* Nonparametric statistics.
+* Deep learning theory
+* High dimensional statistics
+* Optimization
+* Nonparametric statistics
 * Statistical methods for applying biological data.
 
 I have accumulated my own research experience in Generalized Structural Component Analysis (GSCA), Polygenic Score Matching (PSM), Optimized Gradient Methods (OGM), and Performance Estimation Problem methodology (PEP). 
