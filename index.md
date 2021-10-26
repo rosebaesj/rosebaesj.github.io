@@ -11,7 +11,7 @@ cover-img: /assets/img/main1.jpg
 
 I'm **Chanwoo Park**, a student at Seoul National University. I major in Mathematics and Statistics, minor in Computer Science. 
 
-* My research interests are:
+My research interests are:
 * Deep learning theory.
 * High dimensional statistics.
 * Optimization.
