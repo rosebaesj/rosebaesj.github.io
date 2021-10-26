@@ -62,7 +62,7 @@ title: CV
   * Modeling Type 2 diabetes prediction model with demographic variables and SNP
 
 * _**Deep-HisCoM**_
-  * Proposing a novel structure for finding significant pathway
+  * Proposing a novel structure for finding significant pathway
   * Conducting simulation study and real data analysis
 
 
@@ -101,7 +101,7 @@ title: CV
 
 # Talks
 * Seminar: Geometry and Machine learning, 2021
-  * Head Organizer in the part of Machine Learning [url](https://sites.google.com/view/snu-21-fall-geometry-seminar/home)
+  * Head Organizer in the part of Machine Learning [[url](https://sites.google.com/view/snu-21-fall-geometry-seminar/home)]
 
 * Factor-$\sqrt 2$ Acceleration of Accelerated Gradient Methods
   * Bernoulli-IMS World Congress - Poster section Young Researchers Meeting, 2021
