@@ -14,8 +14,6 @@ author: Chanwoo park
 navbar-links:
   CV: "CV"
   Publication: "publication"
-  Blog: "blog"
-  Project: "project"
   GitHub: "https://github.com/chanwoo-park-official"
   Google Scholar: "https://scholar.google.com/citations?hl=en&authuser=2&user=FDG3_JMAAAAJ"
 
@@ -39,7 +37,7 @@ social-network-links:
   email: "chanwoo.park@snu.ac.kr"
   facebook: chanu4689@daum.net
   github: chanwoo-park-official
-  linkedin: chanwoo-park
+#  linkedin: chanwoo-park
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
@@ -62,8 +60,8 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
 #  twitter: true
-  facebook: true
-  linkedin: true
+#  facebook: true
+#  linkedin: true
 #  vk: false
 
 # How to display the link to your website in the footer
