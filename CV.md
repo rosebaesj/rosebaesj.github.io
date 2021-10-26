@@ -8,8 +8,8 @@ title: CV
 
 # Education
 ### Seoul National University, 2016 to Present
-#### B.S. in Statistics, Mathematics, and Computer Science(Triple Major)
-
+#### B.S. in Statistics, Mathematics, and Computer Science (Triple Major)
+ * Including 21 Months Mandatory Military Service 
  * total GPA: 4.19 / math GPA: 4.29
 
 ### Seoul Science High School, 2013 to 2015
