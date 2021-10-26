@@ -70,11 +70,11 @@ title: CV
 
 # Major Courses
 
- * Selected Mathematics Course
+* Selected Mathematics Course
   * Undergraduate courses: Introduction to Mathematical Analysis 1,2, Differential Equation, Linear Algebra, Abstract Algebra 1, Stochastic Differential Equation 1, Financial Mathematics 1, Introduction to Differential Geometry 2, Mathematical and Numerical Optimization
   * Graduate courses: Algebra 1, Real Analysis, Complex Analysis, Functional Analysis 1,2, Harmonic Analysis, Algebraic Topology 2, Lie Group Theory, Mathematical Algorithm 1, Differential Geometry 1
 
- * Selected Statistics & Computer Course
+* Selected Statistics & Computer Course
   * Undergraduate courses: Mathematical Statistics 1,2, Concepts of Probability, Computational Statistics, Introduction to the Machine Learning, Introduction to the Deep Learning, Survival Analysis, Regression Analysis, Stochastic Process, Econometrics
   * Graduate courses: Theory of Statistics 1, 2, Theory of Probability 1, 2, Advanced-Biostatistics, Applied Statistics Seminar (HGLM), Machine Learning, Nonparametric Function Estimation, Natural Language Processing Seminar, System Programming Seminar
 
