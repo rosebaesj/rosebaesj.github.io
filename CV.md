@@ -148,11 +148,12 @@ title: CV
   * Internet-based teaching about Mathematics Olympiad
   
 <br/>
+
 # Extracurricular
-* JAME Band (2019 to 2020)
+* JAME Band (2019 - 2020)
   * Electric Guitar
   
-* Agent police in Boeun 112 counterterrorism unit(21 month) (2017 to 2018)
+* Agent police in Boeun 112 counterterrorism unit (21 month) (2017 - 2018)
   * Counter Terrorism K3 machine gunner
   
 * Limsup Band (2016)
