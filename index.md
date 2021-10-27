@@ -20,7 +20,7 @@ My research interests are:
 
 I have accumulated my own research experience in Generalized Structural Component Analysis (GSCA), Polygenic Score Matching (PSM), Optimized Gradient Methods (OGM), and Performance Estimation Problem methodology (PEP). 
 
-I was a researcher in Bioinformatics and Biostatistics Lab ([BIBS](http://bibs.snu.ac.kr/)) at SNU, directed by Prof. Taesung Park. Under the guidance of Taesung Park, I wrote one paper, "Pure additive contribution of genetic variants to a risk prediction model using propensity score matching: application to type 2 diabetes."
+I was a researcher in Bioinformatics and Biostatistics Lab ([BIBS](http://bibs.snu.ac.kr/)) at SNU, directed by Prof. Taesung Park. The main topic was pathway analyses.
 
 I was a researcher in Nonparametric Inference Lab ([NIL](https://sites.google.com/view/theostat/home?authuser=0)) at SNU, directed by Prof. Byeong U. Park. Under the guidance of Byeong U. Park, I researched the activation function which minimax rate is optimal up to logarithms, such as ReLU or spline. In addition, I studied the connection between the Lie group and statistics.
 
