@@ -14,8 +14,7 @@ title: CV
 
 ### Seoul Science High School, 2013 to 2015
 
- * Thesis: “Fourier Analysis in Bi-complex Field”; Best Thesis Award in Major in Mathematic
- 
+ * Thesis: “Fourier Analysis in Bi-complex Field”; Best Thesis Award in Major in Mathematics
  * GPA: 4.19
 
 <br/>
