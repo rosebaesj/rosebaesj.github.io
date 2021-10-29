@@ -44,7 +44,7 @@ title: CV
   * Constructing A-star map, which maps between inequalities and acceleration method
   * Proving several results including Nesterov's FGM's optimality in some sense using performance estimation problem methodology
 
-### Nonparameteric Inference Lab
+### Nonparametric Inference Lab
 * **ReLU's Convergence Rate**
   * Extending Schmidt-Hieber's research about ReLU's convergence rate to the several activation functions
   * Comparing with several methods
@@ -112,7 +112,7 @@ title: CV
 * Geometric Structure of Acceleration and Its Role in Making Gradients Small Fast
   * Korea Artificial Intelligence Association (KAIA) 2021 Conference, Poster Presentation
 
-* DeepHisCoM: Deep Learning based pathway analysis
+* DeepHisCoM: Deep Learning-based pathway analysis
   * International Conference on Bioinformatics \& Biomedicine (BIBM), Korea, 2020.
   * Bioinformatics Young Scientist Meeting, Korea, 2020. 
 
