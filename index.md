@@ -12,7 +12,7 @@ cover-img: /assets/img/main1.jpg
 I'm **Chanwoo Park**. In fall 2022, I will join MIT EECS as a first-year Ph.D. Student. 
 
 My research interests are:
-* (Multi-agent) Reinforcement learning theory and its application
+* (Multi-agent) Reinforcement Learning Theory and its Application
 * Graph Neural Networks and Equivariant Neural Networks 
 * Optimization
 * Theory of Statistics
