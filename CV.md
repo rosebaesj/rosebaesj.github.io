@@ -7,94 +7,40 @@ title: CV
 
 
 # Education
-### Seoul National University, 2016 to Present
-#### B.S. in Statistics, Mathematics, and Computer Science (Triple Major)
- * Including 21 Months Mandatory Military Service 
- * total GPA: 4.19 / math GPA: 4.29
-
+### Seoul National University, 2016 to 2022
+#### B.S. in Statistics and Mathematics
 ### Seoul Science High School, 2013 to 2015
-
- * Thesis: “Fourier Analysis in Bi-complex Field”; Best Thesis Award in Major in Mathematics
- * GPA: 4.19
-
 <br/>
-
-# Research Interest 
- * Deep Learning Theory
- * High-dimensional Statistics
- * Optimization
- * Nonparametric Statistics
-
-<br/>
-
 
 # Research Experience
-
-### Ryu Optimization Group
-
-* **Optimized Gradient Method (OGM)**
-  * Proving OGM's convergence via Lyapunov function
-  * Deriving strongly convex version OGM and linear coupling derivation of OGM
-
-* **Geometric Acceleration**
-  * Proving FISTA-G's convergence rate via energy function, which is the first acceleration that reducing gradient norm for composite minimization setup
-  * Conducting several experiments for geometric acceleration
-
-* **Optimal First-order Algorithms as a Function of Inequalities**
-  * Constructing A-star map, which maps between inequalities and acceleration method
-  * Proving several results including Nesterov's FGM's optimality in some sense using performance estimation problem methodology
-
-### Nonparametric Inference Lab
-* **ReLU's Convergence Rate**
-  * Extending Schmidt-Hieber's research about ReLU's convergence rate to the several activation functions
-  * Comparing with several methods
-
-* **Probability in Compact Lie Groups**
-  * Studied relationship between representation theory and probability
-  * Measurement error in Lie group
-
-
-### Bioinformatics and Biostatistics Lab
-
-* **Type 2 Diabetes and Propensity Score Matching**
-  * Risk prediction using propensity score matching
-  * Modeling Type 2 diabetes prediction model with demographic variables and SNP
-
-* **Deep-HisCoM**
-  * Proposing a novel structure for finding significant pathway
-  * Conducting simulation study and real data analysis
+See my publication lists.
 
 
 <br/>
 
-# Major Courses
+# Major Courses (Selected)
+* Mathematics (in SNU)
+  * Graduate course: Algebra, Real Analysis, Complex Analysis, Functional Analysis, Harmonic Analysis, Algebraic Topology, Lie Group Theory, Differential Geometry
 
-* Selected Mathematics Course
-  * Undergraduate courses: Introduction to Mathematical Analysis 1,2, Differential Equation, Linear Algebra, Abstract Algebra 1, Stochastic Differential Equation 1, Financial Mathematics 1, Introduction to Differential Geometry 2, Mathematical and Numerical Optimization
-  * Graduate courses: Algebra 1, Real Analysis, Complex Analysis, Functional Analysis 1,2, Harmonic Analysis, Algebraic Topology 2, Lie Group Theory, Mathematical Algorithm 1, Differential Geometry 1
-
-* Selected Statistics & Computer Course
-  * Undergraduate courses: Mathematical Statistics 1,2, Concepts of Probability, Computational Statistics, Introduction to the Machine Learning, Introduction to the Deep Learning, Survival Analysis, Regression Analysis, Stochastic Process, Econometrics
-  * Graduate courses: Theory of Statistics 1, 2, Theory of Probability 1, 2, Advanced-Biostatistics, Applied Statistics Seminar (HGLM), Machine Learning, Nonparametric Function Estimation, Natural Language Processing Seminar, System Programming Seminar
+* Statistics & Computer Science (in SNU)
+  * Graduate courses: Stochastic Process, Theory of Statistics, Theory of Probability, Advanced-Biostatistics, Machine Learning Theory (Infinitely deep and wide neural networks), Nonparametric Function Estimation, Natural Language Processing Seminar
 
 <br/>
 
 
-# Honor and Award
+# Honor and Award (Selected)
 * KOGO Excellent Graduate Paper Award, from Korea Genome Organization, 2020
   * Best Graduate-level paper
-* Simon Marais Mathematics Competition, Pair **1st** Place, Merit Prize, 2020
+* Simon Marais Mathematics Competition, Pair **1st** Place, Merit Prize, 2020 and Pair **4th** Place, Merit Prize, 2021
   * With Taehyoung Kim. Undergraduate Mathematics Competition Asia-Pacific. Inspired by the William Lowell Putnam Mathematical Competition
 * University Mathematics Competition, Field 1 **Gold medal**, from Korean Mathematics Society, 2020
   * For Mathematics Major 
+* Best Student Self-Governing Research Award, from Seoul National University, 2021
+  * For undergraduate students in SNU
 * Korea Actuary, from Financial Supervisory Service, 2018
-* Deans list, from SNU
-  * Fall 2016, Spring 2019, Fall 2019, Spring 2020, Fall 2020, Spring 2021
-
 * Science Scholarship in Mathematics by Korea President, from Korea Student Aid Foundation
   * Full financial support + 1k/year from Korea government, 2016 to Current
-* College Scholarship Student at KFAS
-  * 0.5k/year from KFAS, 2020 to Current
+
 
 <br/>
 
@@ -119,44 +65,22 @@ title: CV
 <br/>
 
 # Teaching Experience
-* Elementary Mathematics 1
-  * Peer tutoring for first-year students of SNU, Spring 2019, Spring 2021
+* Elementary Mathematics 1, 2, Engineering Mathematics 1 (SNU)
+  * Spring 2019, Spring 2020, Spring 2021, Summer 2021, Fall 2021 (Best tutor awards)
 
-* Elementary Mathematics 2
-  * Peer tutoring for first-year students of SNU, Summer 2021, Fall 2021
+* Linear Algebra 1 (SNU)
+  * Winter 2020, Winter 2021
 
-* Engineering Mathematics 1
-  * Peer tutoring for students of SNU, Spring 2020
-
-* Linear Algebra 1
-  * Peer tutoring for sophomore of SNU, Winter 2020, Winter 2021
-
-* Mathematical Statistics 1
-  * Peer tutoring for junior of SNU, Spring 2020, Spring 2021
-
-* Mathematical Statistics 2
-  * Peer tutoring for junior of SNU, Summer 2020, Fall 2020, Fall 2021
-
+* Mathematical Statistics 1, 2 (SNU)
+  * Spring 2020, Summer 2020, Fall 2020 (Best tutor awards), Spring 2021, Fall 2021
 * Mathematical Foundations of Deep Neural Networks
-  * Teaching Assistant, Fall 2021
+  * Fall 2021
 
 * Korea Mathematics Olympiad summer school
   * Teaching Assistant for preparing IMO, Summer 2021
 
 * [Private Note](https://privatenote.co.kr/) 
   * Internet-based teaching about Mathematics Olympiad
-  
-<br/>
-
-# Extracurricular
-* JAME Band (2019 - 2020)
-  * Electric Guitar
-  
-* Agent police in Boeun 112 counterterrorism unit (21 month) (2017 - 2018)
-  * Counter Terrorism K3 machine gunner
-  
-* Limsup Band (2016)
-  * Electric Guitar
-
-* Class of 2020 (matriculated at 2016) representative in Statistics Major (2016)
-  * Student council, 2016 representative
+ 
+* [AI BOOSTCAMP](https://boostcamp.connect.or.kr/) 
+  * Training courses for Deep Learning with Computer Vision 
