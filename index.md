@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chanwoo Park
-subtitle: Seoul National University
+subtitle: Massachusetts Institute of Technology
 cover-img: /assets/img/main1.jpg
 ---
 
@@ -9,28 +9,23 @@ cover-img: /assets/img/main1.jpg
 
 ## About me
 
-I'm **Chanwoo Park**, a student at Seoul National University. I major in Mathematics and Statistics, minor in Computer Science. 
+I'm **Chanwoo Park**, a first-year Ph.D. Student at MIT EECS after Fall 2022. 
 
 My research interests are:
-* Deep learning theory
-* High dimensional statistics
+* (Multi-agent) Reinforcement learning theory and its application
+* Graph Neural Networks and Equivariant Neural Networks 
 * Optimization
-* Nonparametric statistics
-* Statistical methods for applying biological data.
+* Theory of Statistics
 
-I have accumulated my own research experience in Generalized Structural Component Analysis (GSCA), Polygenic Score Matching (PSM), Optimized Gradient Methods (OGM), and Performance Estimation Problem methodology (PEP). 
+When I was an undergraduate student, I worked with Prof. Taesung Park([BIBS](http://bibs.snu.ac.kr/)), Prof. Byeong U. Park ([NIL](https://sites.google.com/view/theostat/home?authuser=0)), and Ernest K. Ryu([Ryu](http://www.math.snu.ac.kr/~ernestryu/)) at Seoul National University. I mainly researched optimization theory (acceleration). 
 
-I was a researcher in Bioinformatics and Biostatistics Lab ([BIBS](http://bibs.snu.ac.kr/)) at SNU, directed by Prof. Taesung Park. The main topic was pathway analyses.
-
-I was a researcher in Nonparametric Inference Lab ([NIL](https://sites.google.com/view/theostat/home?authuser=0)) at SNU, directed by Prof. Byeong U. Park. Under the guidance of Byeong U. Park, I researched the activation function which minimax rate is optimal up to logarithms, such as ReLU or spline. In addition, I studied the connection between the Lie group and statistics.
-
-Currently, I'm a researcher in Ryu's Optimization Group ([Ryu](http://www.math.snu.ac.kr/~ernestryu/)) at SNU, directed by Ernest K. Ryu. I'm excited when I study optimization theory. The commonality of acceleration methods and the worst-case analysis were the main topic.
-
-From Korea Foundation for Advanced Studies (KFAS), full tuition and stipend for doctorates in the US will be given. 
+I am supported by Korea Foundation for Advanced Studies (KFAS). Super thanks!  
 
 I have certification in Korea actuary since 2018. 
 
-I am familiar with several programming languages, including Python, R, C++, Matlab, and Java, and I usually utilize them for research. As a hobby, I play the electric guitar and run through Gwanak Mountain. 
+I am familiar with several programming languages, including Python, R, C++, Matlab, and Java, and I usually utilize them for research.
+
+I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. Feel free to mail me. 
 
 
 
