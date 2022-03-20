@@ -9,7 +9,7 @@ cover-img: /assets/img/main1.jpg
 
 ## About me
 
-I'm **Chanwoo Park**, a first-year Ph.D. Student at MIT EECS after Fall 2022. 
+I'm **Chanwoo Park**. In fall 2022, I will join MIT EECS as a first-year Ph.D. Student. 
 
 My research interests are:
 * (Multi-agent) Reinforcement learning theory and its application
