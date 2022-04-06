@@ -23,9 +23,9 @@ I am supported by Korea Foundation for Advanced Studies (KFAS). Super thanks!
 
 I have certification in Korea actuary since 2018. 
 
-I am familiar with several programming languages, including Python, R, C++, Matlab, and Java, and I usually utilize them for research.
+I am familiar with several programming languages, including Python, R, C++, Matlab, and Java, and I usually use them in my research.
 
-I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. Feel free to mail me. 
+I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. Feel free to email me. 
 
 
 
