@@ -14,6 +14,7 @@ I'm **Chanwoo Park**. I am a first year PhD student at MIT EECS advised by [Asu 
 My research interests are:
 * (Multi-agent) Reinforcement Learning Theory and its Application
 * Graph Neural Networks and Equivariant Neural Networks 
+* Deep Learning Theory (NLP, CV)
 * Optimization
 
 When I was an undergraduate student, I worked with Prof. Taesung Park ([BIBS](http://bibs.snu.ac.kr/)), Prof. Byeong U. Park ([NIL](https://sites.google.com/view/theostat/home?authuser=0)), and Prof. Ernest K. Ryu ([Ryu](http://www.math.snu.ac.kr/~ernestryu/)) at Seoul National University. I mainly researched optimization theory (acceleration). 
@@ -22,7 +23,7 @@ I am supported by Korea Foundation for Advanced Studies (KFAS). Super thanks!
 
 I have certification in Korea actuary since 2018. 
 
-I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. Feel free to email me. 
+I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. I like to talk about the theory or application of deep learning (diffusion model, prompt learning...) and (multi-agent) reinforcement learning. Feel free to email me. 
 
 ## News
 * **September 2022:** I will start my PhD at MIT!  
