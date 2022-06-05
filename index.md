@@ -17,7 +17,7 @@ My research interests are:
 * Deep Learning Theory (NLP, CV)
 * Optimization
 
-When I was an undergraduate student, I worked with Prof. Taesung Park ([BIBS](http://bibs.snu.ac.kr/)), Prof. Byeong U. Park ([NIL](https://sites.google.com/view/theostat/home?authuser=0)), and Prof. Ernest K. Ryu ([Ryu](http://www.math.snu.ac.kr/~ernestryu/)) at Seoul National University. I mainly researched optimization theory (acceleration). 
+When I was an undergraduate student, I worked with Prof. [Taesung Park](http://bibs.snu.ac.kr/), Prof. [Byeong U. Park](https://sites.google.com/view/theostat/home?authuser=0), and Prof. [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/) at Seoul National University. I mainly researched optimization theory (acceleration). 
 
 I am supported by Korea Foundation for Advanced Studies (KFAS). Super thanks!  
 
