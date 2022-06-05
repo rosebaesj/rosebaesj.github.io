@@ -7,15 +7,10 @@ title: CV
 
 
 # Education
+### Massachusetts Institute of Technology, 2022 - 
 ### Seoul National University, 2016 to 2022
 #### B.S. in Statistics and Mathematics
 ### Seoul Science High School, 2013 to 2015
-<br/>
-
-# Research Experience
-See my publication lists.
-
-
 <br/>
 
 # Major Courses (Selected)
