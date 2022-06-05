@@ -9,7 +9,7 @@ cover-img: /assets/img/main1.jpg
 
 ## About me
 
-I'm **Chanwoo Park**. I am a first year PhD student at MIT EECS advised by [Asu Ozdaglar](https://asu.mit.edu/). 
+I'm **Chanwoo Park**. I am a first year PhD student at MIT CSAIL & LIDS advised by [Asu Ozdaglar](https://asu.mit.edu/). 
 
 My research interests are:
 * (Multi-agent) Reinforcement Learning Theory and its Application
