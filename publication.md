@@ -9,6 +9,7 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?h
 
 # Research Papers
 ### Recent Papers
+- **Chanwoo Park***, Sangdoo Yun*, Sanghyuk Chun, _"A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective"_, preprint, 2022
 - **Chanwoo Park**, Ernest K. Ryu, _"Optimal First-Order Algorithms as a Function of Inequalities"_, preprint, 2021 [pdf](https://arxiv.org/abs/2110.11035)
 - **Chanwoo Park**, Jisun Park, Ernest K. Ryu, _"Factor-$\sqrt{2}$ Acceleration of Accelerated Gradient Methods"_, preprint, 2021 [pdf](https://arxiv.org/abs/2102.07366)
 
