@@ -17,8 +17,11 @@ My research interests are:
 * Optimization
 
 When I was an undergraduate student, I worked with Prof. [Taesung Park](http://bibs.snu.ac.kr/), Prof. [Byeong U. Park](https://sites.google.com/view/theostat/home?authuser=0), and Prof. [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/) at Seoul National University. I mainly researched optimization theory (acceleration). 
+
 I am supported by Korea Foundation for Advanced Studies (KFAS). Super thanks!  
+
 I have certification in Korea actuary since 2018. 
+
 I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. I like to talk about the theory or application of deep learning (diffusion model, prompt learning...) and (multi-agent) reinforcement learning. Feel free to email me. 
 
 ## News
