@@ -28,6 +28,7 @@ I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. I
 ## News
 * **September 2022:** I will start my PhD at MIT!  
 * **July 2022:** I will attend [LOGML](https://www.logml.ai/) (Mentor: [Bruno Riberio](https://www.cs.purdue.edu/homes/ribeirob/)).  
+* **June 2022:** Paper on a [Lyapunov analysis of Optimized Gradient Methods](https://arxiv.org/abs/2102.07366) accepted at **Applied Mathematics and Optimization**.
 * **May 2022:** Paper on a deep learning based pathway analysis ([DeepHisCoM](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac171/6590446?redirectedFrom=fulltext)) accepted at **Briefings in Bioinformatics**.
 * **January 2022:** Started internship in [NAVER AI Lab](https://clova.ai/ko/research/research-area-detail.html?id=0) (Mentor: [Sangdoo Yun](https://sangdooyun.github.io/)).
 * **December 2021:** Started [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues.
