@@ -16,10 +16,11 @@ navbar-links:
   Publication: "publication"
   GitHub: "https://github.com/chanwoo-park-official"
   Google Scholar: "https://scholar.google.com/citations?hl=en&authuser=2&user=FDG3_JMAAAAJ"
+  Blog (Korean): "https://chanwoopark.tistory.com"
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "/assets/img/profile.jpg"
+avatar: "/assets/img/profile.png"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
 round-avatar: true
 
@@ -34,11 +35,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "chanwoo.park@snu.ac.kr"
-  facebook: chanu4689@daum.net
+  email: "cpark97@mit.edu"
   github: chanwoo-park-official
 #  linkedin: chanwoo-park
-#  twitter: daattali
+  twitter: chanwoopark20
 #  rss: true
 #  reddit: yourname
 #  xing: yourname
