@@ -23,7 +23,7 @@ I am supported by [Korea Foundation for Advanced Studies](https://eng.kfas.or.kr
 
 I have certification in Korea actuary since 2018. 
 
-I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. I like to talk about the theory or application of deep learning (diffusion model, prompt learning...) and (multi-agent) reinforcement learning. Feel free to email me. 
+I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. I like to talk about the theory or application of deep learning (diffusion model, prompt learning...) and (multi-agent) reinforcement learning. Feel free to email me (cpark97 at mit.edu). Note that chanwoo.park at snu.ac.kr is unavailable.  
 
 ## News
 * **September 2022:** I will start my PhD at MIT! I also got Xianhong Wu Fellowship from MIT.   
