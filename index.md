@@ -17,7 +17,7 @@ My research interests are:
 * Deep Learning Theory (NLP, CV)
 * Optimization
 
-When I was an undergraduate student, I fortunately worked with Prof. [Taesung Park](http://bibs.snu.ac.kr/) and Prof. [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/) at Seoul National University. I mainly researched optimization theory (acceleration). 
+When I was an undergraduate student, I fortunately worked with Prof. [Taesung Park](http://bibs.snu.ac.kr/) and Prof. [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/) at Seoul National University. I mainly researched optimization theory (acceleration). Also, I did research internship in [NAVER AI Lab](https://clova.ai/ko/research/research-area-detail.html?id=0), worked with [Sangdoo Yun](https://sangdooyun.github.io/)) and [Sanghyuk Chun](https://sanghyukchun.github.io/home/). I researched Machine Learning Theory with Computer Vision. 
 
 I am supported by [Korea Foundation for Advanced Studies](https://eng.kfas.or.kr/). Super thanks!  
 
