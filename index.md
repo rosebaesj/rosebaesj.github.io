@@ -9,7 +9,8 @@ cover-img: /assets/img/main1.jpeg
 
 ## About me
 
-I'm **Chanwoo Park**. I am a first year PhD student at MIT EECS & LIDS advised by [Asu Ozdaglar](https://asu.mit.edu/). 
+
+I'm **Chanwoo Park**. I am a first-year Ph.D. student at MIT EECS & LIDS, advised by [Asu Ozdaglar](https://asu.mit.edu/). 
 
 My research interests are:
 * (Multi-agent) Reinforcement Learning Theory and its Application
@@ -17,11 +18,11 @@ My research interests are:
 * Deep Learning Theory (NLP, CV)
 * Optimization
 
-When I was an undergraduate student, I fortunately worked with Prof. [Taesung Park](http://bibs.snu.ac.kr/) and Prof. [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/) at Seoul National University. I mainly researched optimization theory (acceleration). Also, I did research internship in [NAVER AI Lab](https://clova.ai/ko/research/research-area-detail.html?id=0), worked with [Sangdoo Yun](https://sangdooyun.github.io/)) and [Sanghyuk Chun](https://sanghyukchun.github.io/home/). I researched Machine Learning Theory with Computer Vision. 
+Fortunately, as an undergraduate student, I worked with Prof. [Taesung Park](http://bibs.snu.ac.kr/) and Prof. [Ernest K. Ryu](http://www.math.snu.ac.kr/~ernestryu/) at Seoul National University. I mainly researched optimization theory (acceleration). Also, I did a research internship in [NAVER AI Lab](https://clova.ai/ko/research/research-area-detail.html?id=0), advised by [Sangdoo Yun](https://sangdooyun.github.io/)) and [Sanghyuk Chun](https://sanghyukchun.github.io/home/). I researched Machine Learning Theory with Computer Vision. 
 
 I am supported by [Korea Foundation for Advanced Studies](https://eng.kfas.or.kr/). Super thanks!  
 
-I have certification in Korea actuary since 2018. 
+I am holding the certification in Korean actuary since 2018.
 
 I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. I like to talk about the theory or application of deep learning (diffusion model, prompt learning...) and (multi-agent) reinforcement learning. Feel free to email me (cpark97 at mit.edu). Note that chanwoo.park at snu.ac.kr is unavailable.  
 
