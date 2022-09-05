@@ -8,24 +8,16 @@ title: CV
 
 # Education
 ### Massachusetts Institute of Technology, 2022 - 
+#### Ph.D. student in EECS and LIDS.
 ### Seoul National University, 2016 to 2022
-#### B.S. in Statistics and Mathematics
+#### B.S. in Statistics and Mathematics (Summa Cum Laude)
 ### Seoul Science High School, 2013 to 2015
 <br/>
 
-# Major Courses (Selected)
-* Mathematics (in SNU)
-  * Graduate course: Algebra, Real Analysis, Complex Analysis, Functional Analysis, Harmonic Analysis, Algebraic Topology, Lie Group Theory, Differential Geometry
-
-* Statistics & Computer Science (in SNU)
-  * Graduate courses: Stochastic Process, Theory of Statistics, Theory of Probability, Advanced-Biostatistics, Machine Learning Theory (Infinitely deep and wide neural networks), Nonparametric Function Estimation, Natural Language Processing Seminar
-
-<br/>
-
-
 # Honor and Award (Selected)
-* KOGO Excellent Graduate Paper Award, from Korea Genome Organization, 2020
-  * Best Graduate-level paper
+* Xianhong Wu Fellowship, from MIT Engineering, 2022
+* Korea Foundation for Advanced Studies, 2022-
+  * Research Grant
 * Simon Marais Mathematics Competition, Pair **1st** Place, Merit Prize, 2020 and Pair **4th** Place, Merit Prize, 2021
   * With Taehyoung Kim. Undergraduate Mathematics Competition Asia-Pacific. Inspired by the William Lowell Putnam Mathematical Competition
 * University Mathematics Competition, Field 1 **Gold medal**, from Korean Mathematics Society, 2020
@@ -78,4 +70,4 @@ title: CV
   * Internet-based teaching about Mathematics Olympiad
  
 * [AI BOOSTCAMP](https://boostcamp.connect.or.kr/) 
-  * Training courses for Deep Learning with Computer Vision 
+  * Training courses for Deep Learning with Computer Vision, Spring 2022, Fall 2022
