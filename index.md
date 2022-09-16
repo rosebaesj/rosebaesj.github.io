@@ -27,7 +27,9 @@ I am holding the certification in Korean actuary since 2018.
 I run [ML-Theory-Korea](https://mltheory-korea.github.io/) with my colleagues. I like to talk about the theory or application of deep learning (diffusion model, prompt learning...) and (multi-agent) reinforcement learning. Feel free to email me (cpark97 at mit.edu). Note that chanwoo.park at snu.ac.kr is unavailable.  
 
 ## News
-* **September 2022:** I will start my PhD at MIT! I also got Xianhong Wu Fellowship from MIT.   
+* **September 2022:** Paper on a [Loss function perspective of mixed sample data augmentation](https://arxiv.org/abs/2208.09913) acceped at **NeurIPS 2022**. This work was done when I was intern in NAVER AI Lab.
+* **September 2022:** I started my PhD at MIT! I also got Xianhong Wu Fellowship from MIT.   
+* **July 2022:** I am married!! Excited for my new life. 
 * **June 2022:** Paper on a [Lyapunov analysis of Optimized Gradient Methods](https://arxiv.org/abs/2102.07366) accepted at **Applied Mathematics and Optimization**.
 * **May 2022:** Paper on a deep learning based pathway analysis ([DeepHisCoM](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac171/6590446?redirectedFrom=fulltext)) accepted at **Briefings in Bioinformatics**.
 * **January 2022:** Started internship in [NAVER AI Lab](https://clova.ai/ko/research/research-area-detail.html?id=0) (Mentor: [Sangdoo Yun](https://sangdooyun.github.io/)).
