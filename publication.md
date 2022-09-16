@@ -9,10 +9,10 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?h
 
 # Research Papers
 ### Recent Papers
-- **Chanwoo Park***, Sangdoo Yun\*, Sanghyuk Chun, _"A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective"_, preprint, 2022 [pdf](https://arxiv.org/abs/2208.09913)
 - **Chanwoo Park**, Ernest K. Ryu, _"Optimal First-Order Algorithms as a Function of Inequalities"_, Accepted for the publication conditioned on minor revision, JMLR, 2022 [pdf](https://arxiv.org/abs/2110.11035)
 
-### Published Paper 
+### Published Paper
+- **Chanwoo Park***, Sangdoo Yun\*, Sanghyuk Chun, _"A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective"_, NeurIPS 2022 [pdf](https://arxiv.org/abs/2208.09913)
 - **Chanwoo Park**, Jisun Park, Ernest K. Ryu, _"Factor-$\sqrt{2}$ Acceleration of Accelerated Gradient Methods"_, Applied Mathematics and Optimization, 2022 [pdf](https://arxiv.org/abs/2102.07366)
 - **Chanwoo Park**, Boram Kim, Taesung Park, _"DeepHisCoM: Deep Learning based Pathway Analysis"_, Briefings in Bioinformatics, 2022
 - Jongmin Lee, **Chanwoo Park**, Ernest K. Ryu, _"A Geometric Structure of Acceleration and Its Role in Making Gradients Small Fast"_, NeurIPS 2021 [pdf](https://arxiv.org/abs/2106.10439)
