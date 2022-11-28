@@ -1,4 +1,4 @@
 ## Initial codes
 
-* cloned from daattali/beautiful-jekyll
+* cloned from chanwoo-park-official/ cloned from daattali/beautiful-jekyll
 * customized
