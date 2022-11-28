@@ -4,17 +4,18 @@ title: Publication
 ---
 
 
-I can also be found from [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=2&user=FDG3_JMAAAAJ).
+I can also be found from [Google Scholar](https://scholar.google.co.kr/citations?hl=ko&user=M_9Cm_kAAAAJ)
 
 
 # Research Papers
-### Recent Papers
-- **Chanwoo Park**, Ernest K. Ryu, _"Optimal First-Order Algorithms as a Function of Inequalities"_, Accepted for the publication conditioned on minor revision, JMLR, 2022 [pdf](https://arxiv.org/abs/2110.11035)
 
-### Published Paper
-- **Chanwoo Park***, Sangdoo Yun\*, Sanghyuk Chun, _"A Unified Analysis of Mixed Sample Data Augmentation: A Loss Function Perspective"_, NeurIPS 2022 [pdf](https://arxiv.org/abs/2208.09913)
-- **Chanwoo Park**, Jisun Park, Ernest K. Ryu, _"Factor-$\sqrt{2}$ Acceleration of Accelerated Gradient Methods"_, Applied Mathematics and Optimization, 2022 [pdf](https://arxiv.org/abs/2102.07366)
-- **Chanwoo Park**, Boram Kim, Taesung Park, _"DeepHisCoM: Deep Learning based Pathway Analysis"_, Briefings in Bioinformatics, 2022
-- Jongmin Lee, **Chanwoo Park**, Ernest K. Ryu, _"A Geometric Structure of Acceleration and Its Role in Making Gradients Small Fast"_, NeurIPS 2021 [pdf](https://arxiv.org/abs/2106.10439)
-- **Chanwoo Park**, Nan Jiang, Taesung Park, _“Pure additive contribution of genetic variants to a risk prediction model using propensity score matching: application to type 2 diabetes",_ Genomics & Informatics, Vol. 17, No. 4, Dec. 2019. 
+### Recent Papers
+### Publications
+- (Submitted) **Bae, S.J**, … & Park, H.J. The gut microbiome and acupuncture: A systematic review. 
+- **Bae, S. J.**, Ji, J. Y., Oh, J. Y., Won, J., Ryu, Y. H., Lee, H., ... & Park, H. J. (2021). The Role of Skin Mast Cells in Acupuncture Induced Analgesia in Animals: A Preclinical Systematic Review and Meta-analysis. The Journal of Pain, 22(12), 1560-1577.
+- Kim, T. H., **Bae, S. J.**, Kim, D. H., & Kang, J. W. (2020). Teaching Clinical Trials in Korean Medicine: Novel Modules and Student Perceptions of Importance and Achievement. The Journal of Alternative and Complementary Medicine, 26(1), 72-73.
+- **Bae, S. J.**, Lim, J., Lee, S., Choi, H., Jang, J. H., Kim, Y. K., ... & Park, H. J. (2019). Augmented mechanical forces of the surface-modified nanoporous acupuncture needles elicit enhanced analgesic effects. Frontiers in neuroscience, 13, 652.
+-	Jang, J. H., Park, J. Y., Oh, J. Y., **Bae, S. J.**, Jang, H., Jeon, S., ... & Park, H. J. (2018). Novel analgesic effects of melanin-concentrating hormone on persistent neuropathic and inflammatory pain in mice. Scientific reports, 8(1), 1-17.
+-	Ji, J., **Bae, S. J.**, Oh, J. Y., Jung, H. S., & Park, H. J. (2020). The Association between Mast Cell Distribution and Acupoint Specificity: A Comprehensive Review. Korean Journal of Acupuncture, 37(3), 145-158. [Article in Korean]
+
 
