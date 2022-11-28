@@ -7,67 +7,33 @@ title: CV
 
 
 # Education
-### Massachusetts Institute of Technology, 2022 - 
-#### Ph.D. student in EECS and LIDS.
-### Seoul National University, 2016 to 2022
-#### B.S. in Statistics and Mathematics (Summa Cum Laude)
-### Seoul Science High School, 2013 to 2015
+### Harvard School of Public Health, 2022 - 2023 (expected)
+#### M.Sc. student in Epidemiology.
+### Kyung Hee University, 2016 - 2022'
+#### B.S. in Korean Medicine, Dr. of Korean Medicine
+### Gyeonggi Science High School, 2013 to 2016'
 <br/>
 
 # Honor and Award (Selected)
-* Xianhong Wu Fellowship, from MIT Engineering, 2022
-* Korea Foundation for Advanced Studies, 2022-
-  * Research Grant
-* Simon Marais Mathematics Competition, Pair **1st** Place, Merit Prize, 2020 and Pair **4th** Place, Merit Prize, 2021
-  * With Taehyoung Kim. Undergraduate Mathematics Competition Asia-Pacific. Inspired by the William Lowell Putnam Mathematical Competition
-* University Mathematics Competition, Field 1 **Gold medal**, from Korean Mathematics Society, 2020
-  * For Mathematics Major 
-* Best Student Self-Governing Research Award, from Seoul National University, 2021
-  * For undergraduate students in SNU
-* Korea Actuary, from Financial Supervisory Service, 2018
-* Science Scholarship in Mathematics by Korea President, from Korea Student Aid Foundation
-  * Full financial support + 1k/year from Korea government, 2016 to Current
+* Highflier for the Future Prize by Society of Korean Medicine 2021
+* Korean Medicine for Tomorrow Prize by Chung Yeon Central Institute, Korean Medicine Hospital 2019
+* Outstanding Paper Award by Society for Meridian and Acupoint 2019
+* Research Project Proposal Silver Award by Korea Institute of Oriental Medicine 2016
+
+# Scholarships
+* Gwan-Jeong Scholoarship $ 30000 USD/yr 2022 -
+* Exchange Student Scholarship by College of Korean Medicine, Kyung Hee University 2019
+* Undergraduate Research Assistant Scholarship by College of Korean Medicine, Kyung Hee University 2020
+* Academic Excellence Scholarship **(Top 9% GPA)** by College of Korean Medicine, Kyung Hee University 2016, 2019, 2020
 
 
 <br/>
 
 # Talks
-* Seminar: Geometry and Machine learning, 2021
-  * Head Organizer in the part of Machine Learning [[url](https://sites.google.com/view/snu-21-fall-geometry-seminar/home)]
-
-* Factor-$\sqrt 2$ Acceleration of Accelerated Gradient Methods
-  * Bernoulli-IMS World Congress - Poster section Young Researchers Meeting, 2021
-  * Korea Artificial Intelligence Association (KAIA), Poster Presentation, 2021
-  * SIAM Undergraduate Meeting, Virtual, 2021
-  * Korean SIAM Annual Meeting, Korea, 2021
-  * Korean Mathematical Society (KMS) Spring Meeting, Korea, 2021
-
-* Geometric Structure of Acceleration and Its Role in Making Gradients Small Fast
-  * Korea Artificial Intelligence Association (KAIA) 2021 Conference, Poster Presentation
-
-* DeepHisCoM: Deep Learning-based pathway analysis
-  * International Conference on Bioinformatics \& Biomedicine (BIBM), Korea, 2020.
-  * Bioinformatics Young Scientist Meeting, Korea, 2020. 
+* DDW expected
 
 <br/>
 
 # Teaching Experience
-* Elementary Mathematics 1, 2, Engineering Mathematics 1 (SNU)
-  * Spring 2019, Spring 2020, Spring 2021, Summer 2021, Fall 2021 (Best tutor awards)
-
-* Linear Algebra 1 (SNU)
-  * Winter 2020, Winter 2021
-
-* Mathematical Statistics 1, 2 (SNU)
-  * Spring 2020, Summer 2020, Fall 2020 (Best tutor awards), Spring 2021, Fall 2021
-* Mathematical Foundations of Deep Neural Networks
-  * Fall 2021
-
-* Korea Mathematics Olympiad summer school
-  * Teaching Assistant for preparing IMO, Summer 2021
-
-* [Private Note](https://privatenote.co.kr/) 
-  * Internet-based teaching about Mathematics Olympiad
- 
-* [AI BOOSTCAMP](https://boostcamp.connect.or.kr/) 
-  * Training courses for Deep Learning with Computer Vision, Spring 2022, Fall 2022
+* Basic Medical Research (Kyung Hee University)
+  * Spring 2017
