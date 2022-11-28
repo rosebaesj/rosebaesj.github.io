@@ -1,22 +1,22 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: Chanwoo Park
+title: Sunjeong Bae
 
 # [수정필요] 간단한 사이트 설명
-description: Acedemic Website of Chanwoo Park
+description: Acedemic Website of Sunjeong Bae
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: Chanwoo park
+author: Sunjeong Bae
 
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
   CV: "CV"
   Publication: "publication"
-  GitHub: "https://github.com/chanwoo-park-official"
-  Google Scholar: "https://scholar.google.com/citations?hl=en&authuser=2&user=FDG3_JMAAAAJ"
-  Blog (Korean): "https://chanwoopark.tistory.com"
+  GitHub: "https://github.com/rosebaesj"
+  Google Scholar: "https://scholar.google.co.kr/citations?hl=ko&user=M_9Cm_kAAAAJ"
+#  Blog (Korean): "https://chanwoopark.tistory.com"
 
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
@@ -35,10 +35,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "cpark97@mit.edu"
-  github: chanwoo-park-official
+  email: "sjbae@hsph.harvard.edu"
+  github: rosebaesj
 #  linkedin: chanwoo-park
-  twitter: chanwoopark20
+#  twitter: chanwoopark20
 #  rss: true
 #  reddit: yourname
 #  xing: yourname
