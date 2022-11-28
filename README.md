@@ -1,7 +1,6 @@
 
 ---
 Forked from seokho-son/seokho-son.github.io
+and chanwoo-park-official.github.io
 
-It is Chanwoo's official homepage. 
-
-It posts my blog, or my CV. 
+It is Sunjeong's official homepage.
