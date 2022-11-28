@@ -27,5 +27,5 @@ I am supported by [Gwanjeong Scholarship](http://ikef.or.kr/).
 ## Contact
 
 ```
-Email: sjbae@hsph.harvar.edu
+Email: sjbae@hsph.harvard.edu
 ```
