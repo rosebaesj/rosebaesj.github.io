@@ -10,7 +10,9 @@ cover-img: /assets/img/somie.HEIC
 ## About me
 
 
-I'm **Sunjeong**. I am a M.Sc student at HSPH Epidemiology, advised by [Dr. Mingyang Song](https://www.hsph.harvard.edu/song-lab/people/mingyang-song-mbbs-scd/). 
+I'm **Sunjeong**. I am a M.Sc student at HSPH Epidemiology, \
+advised by [Dr. Mingyang Song](https://www.hsph.harvard.edu/song-lab/people/mingyang-song-mbbs-scd/). \
+coadvised by [Dr. Curtis Huttenhower](https://huttenhower.sph.harvard.edu/people/) \
 
 My research interests are:
 * Precision Nutrition
@@ -21,7 +23,6 @@ I am supported by [Gwanjeong Scholarship](http://ikef.or.kr/).
 
 
 ## News
-* **September 2022:** Paper on a [Loss function perspective of mixed sample data augmentation](https://arxiv.org/abs/2208.09913) acceped at 
 
 
 ## Contact
