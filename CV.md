@@ -23,6 +23,8 @@ title: CV
  * -	Undergraduate research assistant
  * -	High school student research assistant
 
+<br/>
+
 # Clinical Experience
 * **Wirye Smart Nursing Hospital** (Apr. 2022 – July. 2022)
  * -	General Physician, Doctor of Korean Medicine
@@ -30,15 +32,16 @@ title: CV
  * -	General Physician, Doctor of Korean Medicine
  * -	Clinical internship, Research assistant
 
-
-
 <br/>
+
 # Honor and Award (Selected)
 * **Highflier for the Future Prize** by Society of Korean Medicine (2021)
 * Korean Medicine for Tomorrow Prize by Chung Yeon Central Institute, Korean Medicine Hospital 2019
 * Outstanding Paper Award by Society for Meridian and Acupoint 2019
 * Research Project Proposal Silver Award by Korea Institute of Oriental Medicine 2016
+
 <br/>
+
 # Scholarships
 * Gwan-Jeong Scholoarship $ 30000 USD/yr 2022 -
 * Exchange Student Scholarship by College of Korean Medicine, Kyung Hee University 2019
