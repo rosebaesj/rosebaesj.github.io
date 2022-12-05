@@ -2,7 +2,7 @@
 layout: page
 title: Sunjeong Bae
 subtitle: Harvard TH Chan School of Public Health
-cover-img: /assets/img/banner.heic
+cover-img: /assets/img/banner.png
 ---
 
 <br/>
