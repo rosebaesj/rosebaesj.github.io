@@ -31,6 +31,6 @@ I can also be found from [Google Scholar](https://scholar.google.co.kr/citations
 - (Poster presentation) **Bae, S. J.**, The Skin Mast Cells in Acupuncture Induced analgesia. Korean Journal of Acupuncture (2019)
 - (Poster presentation) **Bae, S. J.**, Lim, J., Lee, S., Choi, H., Jang, J. H., Kim, Y. K., ... & Park, H. J. Augmented Mechanical Forces of the Surface-Modified Nanoporous Acupuncture Needles Elicit Enhanced Analgesic Effects. Conference of European Pain Federation (2017)
 - (Poster presentation) **Bae, S. J.**, Yoon, S.Y, A Study on the Restoration of Buried Avian Flue Infected Animals’ Leachate using Microbiome The Korean Society For The Gifted (2015)
-- (Poster presentation) Lee, J.Y., **Bae, S. J.**, A study on the antifungal effect and cytotoxicity of ramie leaf and golden extract on A.niger. The Korean Society For The Gifted (2014
+- (Poster presentation) Lee, J.Y., **Bae, S. J.**, A study on the antifungal effect and cytotoxicity of ramie leaf and golden extract on A.niger. The Korean Society For The Gifted (2014)
 
 
