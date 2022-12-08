@@ -9,7 +9,6 @@ I can also be found from [Google Scholar](https://scholar.google.co.kr/citations
 
 # Research Papers
 
-### Recent Papers
 ### Publications
 - (in preparation) **Bae, S.J.**, Wang, K., … & Song, M. The modification of microbiome on preventive effect of omega 3 on systemic inflammation in Men’s Life Validation Study. Gastroenterology
 - (Submitted) **Bae, S.J**, … & Park, H.J. The gut microbiome and acupuncture: A systematic review. 
