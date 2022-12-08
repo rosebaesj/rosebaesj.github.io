@@ -17,20 +17,26 @@ title: CV
 
 # Research Experience
 * **Song Lab & Huttenhower Lab**, Harvard School of Public Health. (May.2022 – present)
- * -	M.Sc. Student
+ -	M.Sc. Student
 * **STAR Lab**, Acupuncture and Meridian Science Research Center (AMSRC), Kyung Hee Univeristy. (Feb.2022 – present)
- * -	Postdoctoral research fellow, Microbiome analysis technician
- * -	Undergraduate research assistant
- * -	High school student research assistant
+ -	Postdoctoral research fellow, Microbiome analysis technician
+ -	Undergraduate research assistant
+ -	High school student research assistant
+
+[PUBLICATIONS](https://rosebaesj.github.io/publication/)
 
 <br/>
 
 # Clinical Experience
 * **Wirye Smart Nursing Hospital** (Apr. 2022 – July. 2022)
- * -	General Physician, Doctor of Korean Medicine
+ -	General Physician, Doctor of Korean Medicine
 * **Gangnam Uirim Korean Medicine Clinic** (Feb. 2021 - July. 2022)
- * -	General Physician, Doctor of Korean Medicine
- * -	Clinical internship, Research assistant
+ -	General Physician, Doctor of Korean Medicine
+ -	Clinical internship, Research assistant
+* **Tongde Hospital of Zhejiang Province**
+ - Clinical internship for undergraduates. (selected)
+* **Beijing University of Chinese Medicine**
+ - Exchange student. (selected)
 
 <br/>
 
@@ -43,7 +49,7 @@ title: CV
 <br/>
 
 # Scholarships
-* Gwan-Jeong Scholoarship $ 30000 USD/yr 2022 -
+* **Gwan-Jeong Scholoarship** $ 30000 USD/yr 2022 -
 * Exchange Student Scholarship by College of Korean Medicine, Kyung Hee University 2019
 * Undergraduate Research Assistant Scholarship by College of Korean Medicine, Kyung Hee University 2020
 * Academic Excellence Scholarship **(Top 9% GPA)** by College of Korean Medicine, Kyung Hee University 2016, 2019, 2020
@@ -51,11 +57,9 @@ title: CV
 
 <br/>
 
-# Talks
-* DDW expected
-
-<br/>
-
 # Teaching Experience
-* Basic Medical Research (Kyung Hee University)
-  * Spring 2017
+* An Introduction to Medical Research, Kyung Hee University (Spring 2017)
+- Teaching Assistant, Advisor: Pf. Tae-Hun Kim
+
+# Community Service
+* Korean Medicine Service Team Abroad
